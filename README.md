@@ -6,6 +6,7 @@
   3. Getx
   4. Webview
   5. LeafletMap api
+  6. localstorage(sharepreferences)
 
 
 
