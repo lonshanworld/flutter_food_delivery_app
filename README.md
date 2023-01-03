@@ -1,4 +1,4 @@
-# food_delivery_app
+# food_delivery_app(complete except payment)
 
 ## Main features of this app
   1. Responsive UI design
