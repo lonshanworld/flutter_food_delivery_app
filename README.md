@@ -7,6 +7,7 @@
   4. Webview
   5. LeafletMap api
   6. localstorage(sharepreferences)
+  7. http
 
 
 
